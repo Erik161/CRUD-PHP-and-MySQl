@@ -1,5 +1,5 @@
 # CRUD-PHP-and-MySQl
-:date: web application using PHP as a programming language backend and MysQl.
+:date: Web application that uses PHP as a backend programming engine, MysQl as a database and Bootstrap as a Framework for the Front-end
 
 
 
