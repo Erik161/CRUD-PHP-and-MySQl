@@ -5,13 +5,4 @@
 
 
 
-
-
-![ezgif com-crop](https://user-images.githubusercontent.com/26189854/56103241-0d9b7f80-5eef-11e9-95cb-a79f84ac72f6.gif)
-
-
-
-
-
-
-![](crud.png)
+![crudphp](https://user-images.githubusercontent.com/26189854/58376157-d625e700-7f20-11e9-8879-bd0275227077.gif)
